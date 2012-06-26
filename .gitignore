@@ -38,9 +38,9 @@
 *.css
 *.html
 *.lg
-origin_epub0x.png
 *.4ct
 *.4tc
 *.xref
-
-
+*.epub
+*.png
+!bilder/*.png
