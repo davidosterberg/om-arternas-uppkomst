@@ -34,5 +34,13 @@
 *.swp
 *~
 .DS_Store
+*.idv
+*.css
+*.html
+*.lg
+origin_epub0x.png
+*.4ct
+*.4tc
+*.xref
 
 
