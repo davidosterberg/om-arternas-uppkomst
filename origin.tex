@@ -2,19 +2,31 @@
 \usepackage[a5paper]{geometry}
 \usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
+\usepackage{hyperref}
 \usepackage[swedish]{babel}
 \usepackage{titlesec}
 \usepackage{color}
 \usepackage{graphicx}
+\usepackage[labelsep=endash]{caption}
+\hypersetup{
+    colorlinks,
+    citecolor=black,
+    filecolor=black,
+    linkcolor=black,
+    urlcolor=black
+}
+
 \newcommand{\HRule}{\rule{0.2\linewidth}{0.2mm}}
 
 \titleformat{\chapter}[display]{\normalfont\Large\filcenter\sffamily}{\LARGE\MakeUppercase{\chaptertitlename} \thechapter}{1pc}{\titlerule\vspace{1pc}\Large}
 
 \titleformat{\section}{\normalsize\bfseries}{}{0em}{}
 \addto\captionsswedish{\renewcommand{\figurename}{Plansch}}
-\usepackage[labelsep=endash]{caption}
 
 \definecolor{darkblue}{rgb}{0,0,0.3}
+\title{Om arternas uppkomst}
+\author{Charles Darwin}
+\date{1859}
 
 \begin{document}
 \input{framsida}
@@ -41,11 +53,5 @@
 \input{kap13}
 \input{kap14}
 \appendix
-\chapter{Copyright och Licens}
-Denna ebok är skapad från material som användaren Simsalabom skannat, korrekturläst och publicerat på sajten 
-Wikisource. Det oöversatta innehållet är fritt från copyright eftersom Charles Darwin avled 1882 och verket publicerades första gången före 1 januari 1923. Även den svenska översättningen är fri från copyright eftersom översättaren A. M. Selling avled 1932 och verket publicerades första gången före 1 januari 1923.
-
-Eventuella nya copyright i och med sammansättningen av denna bok publiceras under licensen: \\[0.5cm]
-Creative Commons Attribution-Share Alike 3.0 Unported \\
-//creativecommons.org/licenses/by-sa/3.0/
+\input{copyright}
 \end{document}
