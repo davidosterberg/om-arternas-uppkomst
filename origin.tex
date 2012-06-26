@@ -4,7 +4,7 @@
 \usepackage[T1]{fontenc}
 \usepackage[swedish]{babel}
 \usepackage{titlesec}
-
+\usepackage{color}
 \usepackage{graphicx}
 \newcommand{\HRule}{\rule{0.2\linewidth}{0.2mm}}
 
@@ -14,13 +14,14 @@
 \addto\captionsswedish{\renewcommand{\figurename}{Plansch}}
 \usepackage[labelsep=endash]{caption}
 
+\definecolor{darkblue}{rgb}{0,0,0.3}
+
 \begin{document}
-\begin{titlepage}
-\begin{center}
-\includegraphics[width=\textwidth]{bilder/Charles_Darwin_01}
-Charles Darwin (1809-1882)
-\end{center}
-\end{titlepage}
+\input{framsida}
+\pagecolor{white}
+\pagestyle{empty}
+\input{darwinbild}
+\pagestyle{empty}
 \input{titelsida}
 \tableofcontents
 \input{historia}
