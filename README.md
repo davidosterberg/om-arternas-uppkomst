@@ -34,3 +34,11 @@ Mjukvara som krävs för att kompilera
 3. callibre
 
 
+## Kompilering
+
+### pdf
+    make pdf
+
+### epub
+    make epub
+
