@@ -13,9 +13,9 @@ Den engelska originaltexten är fri från copyright eftersom Charles Darwin avle
 verket publicerades första gången före 1 januari 1923. Även den svenska
 översättningen är fri från copyright eftersom översättaren A. M. Selling avled
 1932 och verket publicerades första gången före 1 januari 1923. Arbete med
-copyright härörande till Simsalabims arbete är licensierade Creative Commons
+copyright härörande till Simsalabims arbete är licensierade [Creative Commons
 Attribution-Share Alike 3.0
-Unported\footnote{\url{http://creativecommons.org/licenses/by-sa/3.0/}}. Denna
+Unported](http://creativecommons.org/licenses/by-sa/3.0/). Denna
 licens gäller även eventuella copyright som kan hänföras till mig genom
 redigeringen av denna bok.
 
@@ -26,10 +26,10 @@ Mjukvara som krävs för att kompilera
 
 ### pdf-versionen
 
-1. A working LaTeX installation
+1. En fungerande LaTeX installation
 
 ### epub-versionen
-1. A working LaTeX installation
+1. En fungerande LaTeX installation
 2. tex4ht
 3. callibre
 
