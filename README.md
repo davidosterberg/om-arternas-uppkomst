@@ -1,9 +1,9 @@
 Om-arternas-uppkomst
 ====================
 
-Detta är ett försök att göra en attraktiv ebok av Darwins mästerverk Om arternas uppkomst från
-material hämtat från 
-[Om arternas uppkomst](http://sv.wikisource.org/wiki/Om_arternas_uppkomst_genom_naturligt_urval_eller_de_b%C3%A4st_utrustade_rasernas_best%C3%A5nd_i_kampen_f%C3%B6r_tillvaron)
+Detta är ett försök att göra en attraktiv ebok av **Darwins** mästerverk **Om arternas uppkomst** från
+material som publicerats
+[här](http://sv.wikisource.org/wiki/Om_arternas_uppkomst_genom_naturligt_urval_eller_de_b%C3%A4st_utrustade_rasernas_best%C3%A5nd_i_kampen_f%C3%B6r_tillvaron)
 som [Simsalabim](http://sv.wikisource.org/wiki/Anv%C3%A4ndare:Simsalabim)
 skannat, korrekturläst och publicerat på sajten [Wikisource](http://sv.wikisource.org).
 
