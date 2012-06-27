@@ -15,7 +15,10 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.1 r9760"
-   sodipodi:docname="New document 1">
+   sodipodi:docname="epub_cover.svg"
+   inkscape:export-filename="/home/david/project/om-arternas-uppkomst/bilder/epub_cover.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -23,19 +26,19 @@
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="0.0"
+     inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.38970462"
-     inkscape:cx="365.52883"
+     inkscape:cx="375.79301"
      inkscape:cy="561.83135"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="630"
-     inkscape:window-height="673"
-     inkscape:window-x="297"
-     inkscape:window-y="116"
-     inkscape:window-maximized="0" />
+     inkscape:window-width="1440"
+     inkscape:window-height="853"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -52,10 +55,43 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="108.57143"
+       y="200.93362"
+       id="text3085"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3087"
+         x="108.57143"
+         y="200.93362">OM ARTERNAS UPPKOMST</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:27.95856667px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="188.78395"
+       y="246.10809"
+       id="text3089"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3091"
+         x="188.78395"
+         y="246.10809">GENOM NATURLIGT URVAL</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:31.74462128px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="234.47131"
+       y="354.30475"
+       id="text3093"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3095"
+         x="234.47131"
+         y="354.30475">CHARLES DARWIN</tspan></text>
     <image
-       y="408.75729"
-       x="51.42857"
-       id="image3082"
+       y="429.97479"
+       x="99.021255"
+       id="image3048"
        xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABQAAAAOxCAYAAACqogodAAAABHNCSVQICAgIfAhkiAAAIABJREFU
 eJzs3elvHPd9P/D33Ls7e3N5i5dkSpYlxbIl3z+7vpE0cYAEDQIHQZ/kSdM+6LM+7h9QoA/yrEUa
 tGiRwnZQB7ZzKXaT2I58yNZtURIlHuKx3PvenZmdmd8D4fsN5aaJ41qiSL9fgKFQociZ2SV3972f
@@ -16833,40 +16869,7 @@ K7GKePUkZhJCiOdPdgAKIfaFWq32UietCSH2DykNF0II8arJe5EQ4kWTHYBCiGe2G9cNVFXd9QGT
 qz6MXUM+aO893+W5vxsD1geP6VHnthuPWbw48vsWQuxle2ExXHw3Uu0kvqv/D7a5fjjqFKugAAAA
 AElFTkSuQmCC
 "
-       height="470.39062"
-       width="637.14288" />
-    <text
-       xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="108.57143"
-       y="200.93362"
-       id="text3085"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan3087"
-         x="108.57143"
-         y="200.93362">OM ARTERNAS UPPKOMST</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:27.95856667px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="188.78395"
-       y="246.10809"
-       id="text3089"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan3091"
-         x="188.78395"
-         y="246.10809">GENOM NATURLIGT URVAL</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:31.74462128px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="234.47131"
-       y="356.30475"
-       id="text3093"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan3095"
-         x="234.47131"
-         y="356.30475">CHARLES DARWIN</tspan></text>
+       height="388.02765"
+       width="525.5824" />
   </g>
 </svg>
