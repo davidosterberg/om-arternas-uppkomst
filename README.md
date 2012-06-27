@@ -27,12 +27,13 @@ Mjukvara som krävs för att kompilera
 ### pdf-versionen
 
 1. En fungerande LaTeX installation
+2. Gnu make
 
 ### epub-versionen
 1. En fungerande LaTeX installation
 2. tex4ht
 3. callibre
-
+4. Gnu make
 
 ## Kompilering
 
